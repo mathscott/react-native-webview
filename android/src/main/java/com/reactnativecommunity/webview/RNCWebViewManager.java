@@ -1052,7 +1052,7 @@ public class RNCWebViewManager extends SimpleViewManager<WebView> {
             description = "The certificate is not yet valid";
             break;
           case SslError.SSL_UNTRUSTED:
-            description = "The certificate authority is not trusted";
+            description = "The certificate testeteetete is not trusted";
             break;
           default:
             description = "Unknown SSL Error";
